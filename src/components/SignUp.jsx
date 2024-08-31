@@ -48,7 +48,7 @@ const SignUp = () => {
     <div className="flex items-center justify-center min-h-screen bg-white">
       <div className="w-full max-w-md px-8 py-6 mt-4 text-left">
         <div className="flex justify-center mb-6">
-          <img src="/logo.png" alt="Odyssey Studio Logo" width="64" height="64" />
+          <img src="/logo.png" alt="emmerce Logo" width="64" height="64" />
         </div>
         <h2 className="text-2xl font-bold text-center mb-8">Create an Account</h2>
         <div className="space-y-4">

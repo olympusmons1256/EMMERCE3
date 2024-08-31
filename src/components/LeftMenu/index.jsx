@@ -42,7 +42,7 @@ const LeftMenu = () => {
 
   return (
     <div className={`w-64 ${isDarkMode ? 'bg-gray-800 text-white' : 'bg-white text-black'} p-4 border-r border-gray-200 flex flex-col h-screen overflow-y-auto relative ${isDyslexicFont ? 'font-dyslexic' : ''}`}>
-      <h2 className="text-xl font-bold mb-4">Odyssey Studio</h2>
+      <h2 className="text-xl font-bold mb-4">emmerce</h2>
       <OrganizationSection 
         organizations={organizations} 
         selectedOrg={selectedOrg} 
