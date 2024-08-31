@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "odyssey-studio-b87c5",
+    "dev": "odyssey-studio-b87c5"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
